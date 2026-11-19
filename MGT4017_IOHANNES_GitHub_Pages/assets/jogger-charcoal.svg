@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" role="img" aria-label="IOHANNES jogger concept mockup">
+<defs><linearGradient id="back" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#c5c0b7"/><stop offset="1" stop-color="#f4f1eb"/></linearGradient><linearGradient id="fabric" x1="0" x2="1" y1="0" y2=".2"><stop stop-color="#191919"/><stop offset=".3" stop-color="#353535"/><stop offset=".7" stop-color="#353535"/><stop offset="1" stop-color="#191919"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="20"/></filter></defs>
+<rect width="1000" height="1200" fill="url(#back)"/><circle cx="500" cy="490" r="350" fill="#fff" opacity=".14"/>
+<ellipse cx="505" cy="1040" rx="300" ry="56" fill="#000" opacity=".13" filter="url(#shadow)"/>
+<g><path d="M355 235 L646 235 L640 448 L618 1005 L514 1005 L479 654 L456 1005 L349 1005 L364 448 Z" fill="url(#fabric)" stroke="#191919" stroke-width="5" stroke-linejoin="round"/>
+ <path d="M354 240 Q500 259 647 240 L642 290 Q500 311 358 290 Z" fill="#191919" opacity=".58"/>
+ <path d="M500 286 L501 373" stroke="#191919" stroke-width="3" opacity=".55"/>
+ <path d="M370 350 Q400 465 386 579 M631 350 Q601 465 613 579" stroke="#191919" fill="none" stroke-width="3" opacity=".48"/>
+ <rect x="346" y="967" width="112" height="44" rx="9" fill="#191919" opacity=".45"/><rect x="512" y="967" width="110" height="44" rx="9" fill="#191919" opacity=".45"/>
+ <path d="M385 342 L430 397 L406 453" stroke="#191919" fill="none" stroke-width="3" opacity=".38"/>
+ <text x="416" y="423" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold" font-size="18" letter-spacing="2" fill="#eeedea" transform="rotate(-90 416 423)">IOHANNES</text></g>
+<text x="58" y="91" fill="#48443e" font-family="Arial,sans-serif" font-size="22" letter-spacing="6">IOHANNES / DROP 001</text><text x="58" y="1138" fill="#48443e" font-family="Arial,sans-serif" font-size="18" letter-spacing="4">CONCEPT SAMPLE · NOT FOR SALE</text>
+</svg>

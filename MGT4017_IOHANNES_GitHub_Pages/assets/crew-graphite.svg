@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" role="img" aria-label="IOHANNES crew concept mockup">
+<defs><linearGradient id="back" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#d8d3cc"/><stop offset="1" stop-color="#f4f1eb"/></linearGradient><linearGradient id="fabric" x1="0" x2="1" y1="0" y2=".2"><stop stop-color="#32322f"/><stop offset=".3" stop-color="#52514e"/><stop offset=".7" stop-color="#52514e"/><stop offset="1" stop-color="#32322f"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="20"/></filter></defs>
+<rect width="1000" height="1200" fill="url(#back)"/><circle cx="500" cy="490" r="350" fill="#fff" opacity=".14"/>
+<ellipse cx="505" cy="1040" rx="300" ry="56" fill="#000" opacity=".13" filter="url(#shadow)"/>
+<g><path d="M349 273 L422 248 Q500 273 578 248 L651 273 L803 620 L711 656 L637 498 L650 902 L350 902 L363 498 L289 656 L197 620 Z" fill="url(#fabric)" stroke="#32322f" stroke-width="5" stroke-linejoin="round"/>
+ <path d="M424 258 Q500 332 576 258" fill="none" stroke="#32322f" stroke-width="18"/>
+ <path d="M434 259 Q500 311 566 259" fill="none" stroke="#d8d3cc" stroke-width="9"/>
+ <rect x="353" y="864" width="294" height="45" rx="8" fill="#32322f" opacity=".45"/>
+ <path d="M202 606 L293 643 L280 682 L190 642 Z M798 606 L707 643 L720 682 L810 642 Z" fill="#32322f" opacity=".46"/>
+ <path d="M363 345 Q380 540 350 850 M637 345 Q620 540 650 850" stroke="#32322f" stroke-width="3" opacity=".3" fill="none"/>
+ <text x="500" y="507" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold" font-size="34" letter-spacing="5" fill="#eeedea">IOHANNES</text></g>
+<text x="58" y="91" fill="#48443e" font-family="Arial,sans-serif" font-size="22" letter-spacing="6">IOHANNES / DROP 001</text><text x="58" y="1138" fill="#48443e" font-family="Arial,sans-serif" font-size="18" letter-spacing="4">CONCEPT SAMPLE · NOT FOR SALE</text>
+</svg>
